@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 from matplotlib import style
 
+#copy and paste the data from main.py here, or you could always put the code from here to the main.py file. I just made it here to make the code simpler
+
 plt.style.use("ggplot")
 rankings = [3, 119, 184, 76, 19, 58, 22, 52, 13, 8, 80, 14, 124, 41, 39, 2, 10, 184, 65]
 front = ['David Toms', 'Bernhard Langer', 'Brian Henninger', 'Brad Faxon', 'Ben Crane', 'Ben Crane', 'Tim Clark', 'Daniel Chopra', 'Brian Gay', 'Paul Casey', 'Charlie Wi', 'Luke Donald', 'Greg Chalmers', 'Graeme McDowell', 'Russell Henley', 'Jason Day', 'Brian Harman', 'Greg Chalmers', 'Graeme McDowell']
