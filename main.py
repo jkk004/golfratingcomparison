@@ -1,6 +1,6 @@
 import requests
 
-#code to get data
+#code to get data. It will print out names, rankings, etc
 
 gro = []
 year = []
