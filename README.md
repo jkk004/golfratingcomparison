@@ -2,7 +2,7 @@
 
 -Have two seperate files because the main portion of getting the data takes more time than just showing the plot with the data. You can always merge the files accordingly.
 
--Got the data from web scraping, despite the brevity. Thought they were going to have statistics going farther back, and felt it was good practice regardlesa. 
+-Got the data from web scraping, despite the brevity. Thought they were going to have statistics going farther back, but felt it was good practice regardless. 
 
 -Only 2 players were out of the top 125, so overall, pretty good showing. I plan to do this for driving next.
 
