@@ -1,7 +1,5 @@
 # "Drive for show, putt for dough"
 
--Quite ingenious how I was able to get the data
-
 -Have two seperate files with main (to get the data) and createvisual (to create the visual) because the main portion of getting the data takes more time than just showing the plot with the data. You can always merge the files accordingly, but I preferred splitting them.
 
 -Got the data from web scraping. With my code and the PGA Tour website, you could get rankings with pretty with pretty much any statistic, other than putting and driving (which were the two main parameters I wanted to focus on). All you have to do is change the link to scrape towards that statistic. The second link always stays the same, since that is just going through the money leaderboard 
