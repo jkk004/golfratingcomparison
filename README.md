@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/62976976/81375662-da59fe80-90b6-11ea-977a-68f303c7267d.png)
 ![image](https://user-images.githubusercontent.com/62976976/81374062-2c008a00-90b3-11ea-8057-50e1b05461f8.png)
 
--"Drive for dough AND putt for dough" ??
+-Recent years have shown that the top driver was highly ranked on the money leaderboard.
 ![image](https://user-images.githubusercontent.com/62976976/81458365-dd083280-914e-11ea-89fc-e4deafb44c4d.png)
 
 -Expected
