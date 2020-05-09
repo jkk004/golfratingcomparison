@@ -38,7 +38,7 @@ def stats1(plug):
         if tally >= 1:
             check1 += f.text[i]
     return check1
-for i in range(1,20):
+for i in range(1,20): #this is the range of years. started at 1 for 2001 and ended at 20 for 2019 (2020 seasons i still going)
     if i < 10:
         plug = "0" + str(i)
         hey = stats(plug)
