@@ -1,10 +1,10 @@
 import requests
 
-#code to get data. It will print out names, rankings, etc
+#code to get data. It will print out names, rankings, etc for putting
 
-gro = []
-year = []
-off = []
+gro = [] #List of Names
+year = [] #Years starting from 2001
+off = [] #Rankings
 
 
 def stats(plug):
@@ -50,10 +50,11 @@ for i in range(1,20):
         year.append("20" + str(i))
         hey1 = stats1(plug)
         off.append(hey1)
-total = []
-ranking_int = []
-for i in range(19):
+total = [] #Name + Year
+ranking_int = [] #convert str of number to int of number
+for i in range(19): #Name + Year
     total.append(gro[i] + " " + year[i])
-for i in range(19):
-    ranking_int.append(int(year[i]))
-print(gro,total, year, ranking, ranking_int, off)
+for i in range(19): #convert str of number to int of number
+   ranking_int.append(int(off[i]))
+
+print(gro,off)
