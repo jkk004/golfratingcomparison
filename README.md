@@ -14,3 +14,6 @@
 
 -For the driving comparison, a lot of the recent long drivers have been consistantly very highly rated on the money leaderboard. Therefore, it is key to note that possibly in recent times, the "Drive for show, putt for dough" has shifted to "Drive for dough AND putt for dough"
 ![image](https://user-images.githubusercontent.com/62976976/81458365-dd083280-914e-11ea-89fc-e4deafb44c4d.png)
+
+-You can do this rating comparison with any stat
+![image](https://user-images.githubusercontent.com/62976976/81459126-1e9adc80-9153-11ea-82fb-cdba7eceadb4.png)
