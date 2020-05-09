@@ -17,3 +17,8 @@
 
 -You can do this rating comparison with any stat
 ![image](https://user-images.githubusercontent.com/62976976/81459126-1e9adc80-9153-11ea-82fb-cdba7eceadb4.png)
+
+-Oddly a seemingly less important stat showed more promise to one's success on tour
+![image](https://user-images.githubusercontent.com/62976976/81459344-4b9bbf00-9154-11ea-86b8-1f0fce2b0cb8.png)
+![image](https://user-images.githubusercontent.com/62976976/81459358-5bb39e80-9154-11ea-9e56-ba235337fcd3.png)
+
