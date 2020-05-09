@@ -23,3 +23,8 @@
 -For approach shots 50-125 yards in, the stat was available starting from 2002. Therefore, I had to make some slight changes in my code to get this statistic (not much)
 ![image](https://user-images.githubusercontent.com/62976976/81460115-07122280-9158-11ea-9e6a-a951966fc64d.png)
 
+-Graph for scrambling
+![image](https://user-images.githubusercontent.com/62976976/81460632-7c332700-915b-11ea-9982-75645afa60a0.png)
+![image](https://user-images.githubusercontent.com/62976976/81460701-de8c2780-915b-11ea-894f-3da9990f029d.png)
+
+
