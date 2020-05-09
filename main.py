@@ -10,7 +10,10 @@ off = [] #Rankings
 def stats(plug):
     link = "https://www.pgatour.com/content/pgatour/stats/stat.02428.y20" + plug +".html"
     f = requests.get(link)
-    loc = f.text.index("players/player")
+    try:
+        loc = f.text.index(gro[int(plug)-1])
+    except:
+        return 250
     check = ""
     tally = 0
     for i in range(loc,loc + 2000):
