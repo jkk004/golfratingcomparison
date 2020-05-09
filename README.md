@@ -13,13 +13,13 @@
 -For the driving comparison, a lot of the recent long drivers have been consistantly very highly rated on the money leaderboard. Therefore, it is key to note that possibly in recent times, the "Drive for show, putt for dough" has shifted to "Drive for dough AND putt for dough"
 ![image](https://user-images.githubusercontent.com/62976976/81458365-dd083280-914e-11ea-89fc-e4deafb44c4d.png)
 
--You can do this rating comparison with any stat
+-Expected
 ![image](https://user-images.githubusercontent.com/62976976/81459126-1e9adc80-9153-11ea-82fb-cdba7eceadb4.png)
 
--Oddly a seemingly less important stat showed more promise to one's success on tour
+-Oddly, a lot of good bunker players are highly rated 
 ![image](https://user-images.githubusercontent.com/62976976/81459344-4b9bbf00-9154-11ea-86b8-1f0fce2b0cb8.png)
 ![image](https://user-images.githubusercontent.com/62976976/81459358-5bb39e80-9154-11ea-9e56-ba235337fcd3.png)
 
--For approach shots 50-125 yards in, the stat was available starting from 2002. Therefore, I had to make some slight changes in my code to get this statistic (not many)
+-For approach shots 50-125 yards in, the stat was available starting from 2002. Therefore, I had to make some slight changes in my code to get this statistic (not much)
 ![image](https://user-images.githubusercontent.com/62976976/81460115-07122280-9158-11ea-9e6a-a951966fc64d.png)
 
