@@ -22,3 +22,6 @@
 ![image](https://user-images.githubusercontent.com/62976976/81459344-4b9bbf00-9154-11ea-86b8-1f0fce2b0cb8.png)
 ![image](https://user-images.githubusercontent.com/62976976/81459358-5bb39e80-9154-11ea-9e56-ba235337fcd3.png)
 
+-For approach shots 50-125 yards in, the stat was available starting from 2002. Therefore, I had to make some slight changes in my code to get this statistic (not many)
+![image](https://user-images.githubusercontent.com/62976976/81460115-07122280-9158-11ea-9e6a-a951966fc64d.png)
+
