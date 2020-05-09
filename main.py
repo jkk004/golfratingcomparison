@@ -8,7 +8,7 @@ off = [] #Rankings
 
 
 def stats(plug):
-    link = "https://www.pgatour.com/content/pgatour/stats/stat.02428.y20" + plug +".html"
+    link = "https://www.pgatour.com/content/pgatour/stats/stat.02428.y20" + plug +".html" #this is where you swap the link
     f = requests.get(link)
     try:
         loc = f.text.index(gro[int(plug)-1])
