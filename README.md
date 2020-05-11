@@ -1,6 +1,6 @@
 # "Drive for show, putt for dough"
 
--Note: It was cool to see Chris Riley in one of these stats, because he lives like 5-10 miles away from me.
+-Note: It was cool to see Chris Riley in one of these stats, because he lives right next to me.
 
 -A popular saying in golf is "Drive for show and putt for dough". This gave me inspiration to see how golf stats relate to actual performance.
 
